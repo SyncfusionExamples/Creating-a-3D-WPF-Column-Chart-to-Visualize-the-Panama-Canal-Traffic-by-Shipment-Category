@@ -63,7 +63,7 @@
             </chart:SfChart3D.SecondaryAxis>
 
             <chart:ColumnSeries3D ItemsSource="{Binding TransitData}"
-                                  XBindingPath="MarketSegments"
+                                  XBindingPath="Category"
                                   YBindingPath="NumberOfCrossing2022"
                                   Interior="#96D759"
                                   SegmentSpacing="0.3"
@@ -75,7 +75,7 @@
             </chart:ColumnSeries3D>
 
             <chart:ColumnSeries3D ItemsSource="{Binding TransitData}"
-                                  XBindingPath="MarketSegments"
+                                  XBindingPath="Category"
                                   YBindingPath="NumberOfCrossing2023"
                                   Interior="#775DD0"
                                   SegmentSpacing="0.3"
