@@ -118,3 +118,9 @@ After executing the previous code examples, we’ll get an output like in the fo
 
 ![image](https://github.com/SyncfusionExamples/Creating-a-3D-WPF-Column-Chart-to-Visualize-the-Panama-Canal-Traffic-by-Shipment-Category/assets/113962276/0ce2b782-a7d9-41e3-b0ec-8c27e50e2eed)
 
+
+Path too long exception
+If you are facing a path too long exception when building this example project, close Visual Studio and rename the repository to short and build the project.
+
+For a step-by-step procedure, refer to the [Panama Canal traffic]() blog post.
+
