@@ -20,5 +20,5 @@ By implementing these customizations, we can transform the  3D column chart into
 
 If you are facing a path too long exception when building this example project, close Visual Studio and rename the repository to short and build the project.
 
-For a step-by-step procedure, refer to the [Panama Canal traffic]() blog post.
+For a step-by-step procedure, refer to the [Panama Canal traffic](https://www.syncfusion.com/blogs/post/wpf-3d-column-chart-transit-data) blog post.
 
